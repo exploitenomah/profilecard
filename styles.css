@@ -6,7 +6,7 @@ body{
     margin: 0;
     background:url(bg-pattern-top.svg), url(bg-pattern-bottom.svg);
     background-position: 50%, 50%;
-    background-color: #00FFFF;
+    background-color:  #1fcecb ;
     display: flex;
     justify-content: center;
     background-repeat:no-repeat, repeat;
