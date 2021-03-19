@@ -6,7 +6,7 @@ body{
     margin: 0;
     background:url(bg-pattern-top.svg), url(bg-pattern-bottom.svg);
     background-position: 50%, 50%;
-    background-color: teal;
+    background-color: #00FFFF;
     display: flex;
     justify-content: center;
     background-repeat:no-repeat, repeat;
@@ -38,25 +38,26 @@ img{
     display: block;
     border-radius: 50%;
     position: relative;
-    margin-top: 50px;
+    margin-top: 120px;
+    border: 2px solid white:
   
 }
 hr{
     
     grid-row: 1;
     position: absolute;
-    bottom: 130px;
+    bottom: 90px;
     right: 0px;
-    color:cadetblue;
+    color:black;
     margin-bottom: 5px;
     
-    width:355px;
+    width:345.5px;
 }
 .grid-container{
     width: 275.73px;
     grid-row: auto;
     display: grid;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 .grid-item1{
 
@@ -103,5 +104,5 @@ hr{
 
 .attribution{
     position: absolute;
-    top: 960px;
+    top: 560px;
 }
