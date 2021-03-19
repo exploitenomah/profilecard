@@ -6,10 +6,10 @@ body{
     margin: 0;
     background:url(bg-pattern-top.svg), url(bg-pattern-bottom.svg);
     background-position: 50%, 50%;
-    background-color:  #1fcecb ;
+    background-color:  #0ABAB5 ;
     display: flex;
     justify-content: center;
-    background-repeat:no-repeat, repeat;
+    background-repeat:no-repeat,  no-repeat;
     
 
   
@@ -39,7 +39,7 @@ img{
     border-radius: 50%;
     position: relative;
     margin-top: 120px;
-    border: 2px solid white:
+    border: 2px solid white;
   
 }
 hr{
@@ -51,13 +51,13 @@ hr{
     color:black;
     margin-bottom: 5px;
     
-    width:345.5px;
+    width:350px;
 }
 .grid-container{
     width: 275.73px;
     grid-row: auto;
     display: grid;
-    margin-top: 30px;
+    margin-top: 40px;
 }
 .grid-item1{
 
