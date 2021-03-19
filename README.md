@@ -23,7 +23,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Build out the project to the designs provided
 
 ### Screenshot
-
+![](main/firstproject.png)
  
 
 
@@ -55,7 +55,6 @@ I plan to thoroughly explore css and understand its complete power.
 ### Useful resources
 
 - w3schools (https://www.w3schools.com) - This helped me understand a lot of the code i put to use. I really liked this pattern and will use it going forward.
-- mozilla developer network (https://www.mozilladevelopernetwork.com) - This is also an amazing platform which helped me understand a lot of code before i put them to use.
 
 ## Author
 
