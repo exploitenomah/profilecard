@@ -6,10 +6,10 @@ body{
     margin: 0;
     background:url(bg-pattern-top.svg), url(bg-pattern-bottom.svg);
     background-position: 50%, 50%;
-    background-color:  #0ABAB5 ;
+    background-color: #008b8b ;
     display: flex;
     justify-content: center;
-    background-repeat:no-repeat,  no-repeat;
+    background-repeat:no-repeat,  repeat;
     
 
   
